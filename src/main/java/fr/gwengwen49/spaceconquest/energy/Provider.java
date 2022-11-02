@@ -4,7 +4,7 @@ public interface Provider {
 
     int provide();
 
-        int getMinProductionRate();
+    int getMinProductionRate();
 
     int getMaxProductionRate();
 
