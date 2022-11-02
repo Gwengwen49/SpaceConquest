@@ -1,0 +1,20 @@
+{
+  "values": [
+    "space_conquest:fuel_burning_generator",
+
+    "space_conquest:aluminium_ore",
+    "space_conquest:nickel_ore",
+    "space_conquest:silver_ore",
+    "space_conquest:zinc_ore",
+    "space_conquest:lead_ore",
+
+    "space_conquest:deepslate_tungsten_ore",
+    "space_conquest:deepslate_titanium_ore",
+    "space_conquest:deepslate_tin_ore",
+    "space_conquest:deepslate_aluminium_ore",
+    "space_conquest:deepslate_nickel_ore",
+    "space_conquest:deepslate_silver_ore",
+    "space_conquest:deepslate_zinc_ore",
+    "space_conquest:deepslate_lead_ore"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "space_conquest:blocks/fuel_burning_generator_lit_front",
+    "side": "space_conquest:blocks/fuel_burning_generator_lit_side",
+    "top": "space_conquest:blocks/fuel_burning_generator_lit_top"
+  }
+}

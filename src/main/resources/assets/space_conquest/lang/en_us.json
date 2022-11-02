@@ -1,0 +1,13 @@
+{
+  "block.space_conquest.fuel_burning_generator": "Fuel Burning Generator",
+  "itemGroup.space_conquest": "Space Conquest",
+  "block.space_conquest.tungsten_ore": "Tungsten Ore",
+  "block.space_conquest.titanium_ore": "Titanium Ore",
+  "block.space_conquest.tin_ore": "Tin Ore",
+  "item.space_conquest.raw_tungsten": "Raw Tungsten",
+  "item.space_conquest.raw_titanium": "Raw Titanium",
+  "item.space_conquest.raw_tin": "Raw Tin",
+  "item.space_conquest.tungsten_ingot": "Tungsten Ingot",
+  "item.space_conquest.titanium_ingot": "Titanium Ingot",
+  "item.space_conquest.tin_ingot": "Tin Ingot"
+}
